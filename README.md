@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hunter Gym
 
 Web app di allenamento con quest giornaliere, verifica tra amici, ranghi, item e combattimenti
@@ -103,3 +104,6 @@ Dopo l'avvio controlla:
   massimo 10 al giorno per cacciatore, registro dei turni nel dettaglio.
 - **Admin**: solo l'account indicato in `ADMIN_USERNAME` vede la console; con un account normale la
   chiamata diretta risponde 403.
+=======
+# Prog_Hunter_Gym2222
+>>>>>>> 1ca3edab289e33f1f11ceb094d0c4ab4c1fced1b
